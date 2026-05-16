@@ -4,7 +4,7 @@ Simple Laravel CRUD example for products.
 
 ## Requirements
 
-- PHP 8.2+
+- PHP 8.3+
 - Composer
 
 ## Setup
